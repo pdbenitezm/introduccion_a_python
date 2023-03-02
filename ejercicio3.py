@@ -4,4 +4,5 @@ numero = int(input())
 numero_doble = numero ** 2
 numero_triple = numero ** 3
 print("El doble de tu número es:", numero_doble, "Y el triple es:", numero_triple)
+print("")
 quit(print("Fin código"))

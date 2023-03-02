@@ -2,4 +2,5 @@
 print("Introduzca su nombre")
 nombre_introducido = input()
 print("Buenos días", nombre_introducido, ":)")
+print("")
 quit(print("Fin código"))
